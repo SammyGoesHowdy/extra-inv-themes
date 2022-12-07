@@ -1,0 +1,22 @@
+{
+	"2c_S1":				 { "Name": "Invincibility (Sonic 1)",       "File": "InvincibilityS1.ogg", "Type": "Music", "LoopStart": "39505" },
+	"2c_S2":				 { "Name": "Invincibility (Sonic 2)",       "File": "InvincibilityS2.ogg", "Type": "Music", "LoopStart": "38600" },
+	"2c_SM":				 { "Name": "Invincibility (Sonic Mania)",       "File": "Invincibility_Mania.ogg", "Type": "Music", "LoopStart": "139263" },
+	"2c_SCDUS":				 { "Name": "Invincibility (Sonic CD US)",       "File": "InvincibilityCDUS.ogg", "Type": "Music", "LoopStart": "0" },
+	"2c_SCDJP":				 { "Name": "Invincibility (Sonic CD JP/EU)",       "File": "InvincibilityCDJP.ogg", "Type": "Music", "LoopStart": "0" },
+	"2c_SA":				 { "Name": "Invincibility (Sonic Adventure)",       "File": "Invincibility_Adventure.ogg", "Type": "Music", "LoopStart": "0" },
+	"2c_S3DB":				 { "Name": "Invincibility (Sonic 3D Blast)",       "File": "InvincibilitySonic3D.ogg", "Type": "Music", "LoopStart": "68460" },
+	"2c_SiIva":				 { "Name": "Invincibility (SiIvaGunner)",       "File": "InvincibilitySiIvaGunner.ogg", "Type": "Music", "LoopStart": "1" },
+	"2c_Lego":				 { "Name": "Invincibility (Lego Dimensions)",       "File": "MX_SONIC_INVINCIBLE.ogg", "Type": "Music", "LoopStart": "1" },
+	"2c_Sonic4":				 { "Name": "Invincibility (Sonic 4 Episode 1)",       "File": "InvincibilitySonic4.ogg", "Type": "Music", "LoopStart": "144716" },
+	"2c_Chaotix":				 { "Name": "Invincibility (Knuckles' Chaotix)",       "File": "InvincibilityChaotix.ogg", "Type": "Music", "LoopStart": "38294" },
+	"2c_Forces":				 { "Name": "Invincibility (Sonic Forces)",       "File": "0001.ogg", "Type": "Music", "LoopStart": "100656" },
+	"2c_S3DSaturn":				 { "Name": "Invincibility (Sonic 3D Blast Saturn)",       "File": "InvincibilitySonic3DSAT.ogg", "Type": "Music", "LoopStart": "1" },
+	"2c_Gens":				 { "Name": "Invincibility (Sonic Generations)",       "File": "InvincibilityGens.ogg", "Type": "Music", "LoopStart": "38914" },
+	"2c_TT16B":				 { "Name": "Invincibility (Sonic Triple Trouble 16-Bit)",       "File": "InvincibilityTT16B.ogg", "Type": "Music", "LoopStart": "1" },
+	"2c_megamixsonic":				 { "Name": "Invincibility (Sonic Megamix (V4, Sonic)",       "File": "InvincibilityMegamix.ogg", "Type": "Music", "LoopStart": "37657" },
+	"2c_megamixtails":				 { "Name": "Invincibility (Sonic Megamix (V4, Tails)",       "File": "InvincibilityMegamixT.ogg", "Type": "Music", "LoopStart": "61826" },
+	"2c_megamixknuckles":				 { "Name": "Invincibility (Sonic Megamix (V4, Knuckles)",       "File": "megamix_knuckles.ogg", "Type": "Music", "LoopStart": "33476" },
+	"2c_megamixmighty":				 { "Name": "Invincibility (Sonic Megamix (V4, Mighty)",       "File": "megamix_mighty.ogg", "Type": "Music", "LoopStart": "39492" },
+
+}
