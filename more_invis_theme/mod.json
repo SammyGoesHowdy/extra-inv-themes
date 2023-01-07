@@ -5,7 +5,7 @@
 		"Author": "SammyGoesHowdy",
 		"Description": "This mod adds more invincibility themes.",
 		"URL": "https://twitter.com/SammyGoesHowdy",
-		"ModVersion": "1.0",
+		"ModVersion": "1.5",
 		"GameVersion": "22.09.10.0"
 		
 	},
@@ -39,6 +39,7 @@
 					"16": "Super Mario World",
 					"17": "Sonic Triple Trouble 16-Bit",
 					"18": "Sonic Megamix (V4)",
+					"19": "Sonic 06",
 				}
 			}
 		]

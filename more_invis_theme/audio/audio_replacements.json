@@ -18,5 +18,8 @@
 	"2c_megamixtails":				 { "Name": "Invincibility (Sonic Megamix (V4, Tails)",       "File": "InvincibilityMegamixT.ogg", "Type": "Music", "LoopStart": "61826" },
 	"2c_megamixknuckles":				 { "Name": "Invincibility (Sonic Megamix (V4, Knuckles)",       "File": "megamix_knuckles.ogg", "Type": "Music", "LoopStart": "33476" },
 	"2c_megamixmighty":				 { "Name": "Invincibility (Sonic Megamix (V4, Mighty)",       "File": "megamix_mighty.ogg", "Type": "Music", "LoopStart": "39492" },
+	"2c_MW":				 { "Name": "Invincibility (Super Mario World)",       "File": "Star_MarioWorld.ogg", "Type": "Music", "LoopStart": "1" },
+	"2c_NTSC":				 { "Name": "Invincibility (TimmyTurnersGrandDad (NTSC)",       "File": "NTSC.ogg", "Type": "Music", "LoopStart": "13350" },
+	"2c_06":				 { "Name": "Invincibility (Sonic 06)",       "File": "Invincibility06.ogg", "Type": "Music", "LoopStart": "1" },
 
 }

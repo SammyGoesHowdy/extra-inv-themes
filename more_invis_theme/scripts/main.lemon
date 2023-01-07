@@ -33,8 +33,14 @@ function u64 Standalone.getModdedSoundKey(u64 soundKey, u8 sfxId, u8 soundRegTyp
             return "2c_S3DSaturn"
         else if (ChangeInvinTheme == 14)
             return "2c_Gens"
+        else if (ChangeInvinTheme == 15)
+            return "2c_NTSC"
+        else if (ChangeInvinTheme == 16)
+            return "2c_MW"
         else if (ChangeInvinTheme == 17)
             return "2c_TT16B"
+        else if (ChangeInvinTheme == 19)
+            return "2c_06"
 
     }
       return base.Standalone.getModdedSoundKey(soundKey, sfxId, soundRegType)
